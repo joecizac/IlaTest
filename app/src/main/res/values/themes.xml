@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IlaDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#F2F2F2</item>
+        <item name="colorPrimaryContainer">#FF0000</item>
+        <item name="colorSecondary">#021139</item>
+        <item name="colorAccent">#82EA40</item>
+    </style>
+
+    <style name="Theme.IlaDemo" parent="Base.Theme.IlaDemo" />
+</resources>

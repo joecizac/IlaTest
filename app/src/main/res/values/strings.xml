@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IlaDemo</string>
+    <string name="msg_no_result">No result found</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_brand">Ila Bank</string>
+    <string name="cd_app_logo">App logo</string>
+</resources>

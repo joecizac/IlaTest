@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IlaDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#262626</item>
+        <item name="colorPrimaryContainer">#0000FF</item>
+        <item name="colorSecondary">#021139</item>
+        <item name="colorAccent">#82EA40</item>
+    </style>
+</resources>
